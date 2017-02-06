@@ -1,2 +1,5 @@
 # node-builder
-A copy builder which also runs npm install
+This is a simple node builder.
+It will:
+  - copy the source files to /project/target
+  - run an npm install
