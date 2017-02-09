@@ -2,7 +2,7 @@
 
 # What it Does
 
-This nodeJS builder copies the contents of the project's root to the `/project/target` directory, then installs the dependencies using `npm install`. The dependencies must be specified in the `package.json` file at the project root as specified in the [official documentation](https://docs.npmjs.com/getting-started/using-a-package.json).
+This node7.4 builder copies the contents of the project's root to the `/project/target` directory, then installs the dependencies using `npm install`. The dependencies must be specified in the `package.json` file at the project root as specified in the [official documentation](https://docs.npmjs.com/getting-started/using-a-package.json).
 
 # How to Use
 
