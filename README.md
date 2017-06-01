@@ -8,9 +8,7 @@ This node7.4 builder copies the contents of the project's root to the `/project/
 
 In order to use this builder for your project, edit the `codingame.yml` file and add the following lines to your project:
 
-    builder:
-      name: codingame/node-npm-builder
-      version: 1.0
+    builder: techio/node-npm-builder:1.0
 
 # Compatibility
 
